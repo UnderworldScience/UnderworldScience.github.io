@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Nathan Fisher, PhD
 permalink: /about/
 ---
-
-## Nathan Fisher, PhD
 
 I've been a scientist studying infectious disease for over 15 years and I also happen to love stories about zombies, vampires, and werewolves. I combined these two passions in order to create the **Underworld Science** series of fictionalized study guides.
 
