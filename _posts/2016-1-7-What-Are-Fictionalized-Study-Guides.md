@@ -19,7 +19,9 @@ This is a pretty new concept that I'm still refining! Sign up below to be a _bet
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
   <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
+  <input type='text' name='name' />
+  <input type='text' name='email' />
+  <input type='submit' value='Submit' />
 </form>
    
+*I'll never spam you!*
