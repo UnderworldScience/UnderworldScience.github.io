@@ -17,7 +17,7 @@ This is a pretty new concept that I'm still refining! Sign up below to be a _bet
 
 <form action="https://getsimpleform.com/messages?form_api_token=456e9ba8d53c9fc92bb92ddfa08c9cf0" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<http://underworldscience.github.io/thankyou.html>' />
+  <input type='hidden' name='redirect_to' value='<http://underworldscience.github.io/thankyou>' />
   <!-- all your input fields here.... -->
   <input type='text' name='name' /> Name <br />
   <input type='text' name='email' /> Email <br />
