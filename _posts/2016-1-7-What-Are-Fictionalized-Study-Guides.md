@@ -1,13 +1,13 @@
 ---
 layout: post
-title: What are _Fictionalized_ Study Guides?
+title: What are Fictionalized Study Guides?
 ---
 
 On this site, you can become a beta reader for a brand new genre of scholastic writing-_the fictionalized study guide_.
 
 These study guides present *real* scientific terms and concepts through a *fictitious story*. The learning tools most people are familiar with-classroom lectures, text books, and standard study guides-mostly engage the left side of your brain, which is the logical, fact-based side. In contrast, these fictionalized guides engage the creative, story-telling side. Using both sides of your brain to interact with the material [improves long-term memory and recall.](https://blog.bufferapp.com/science-of-storytelling-why-telling-a-story-is-the-most-powerful-way-to-activate-our-brains)  
 
-So while the overarching story line and *_Underworldly_* aspects of these study guides are fictitious, they can help you to master *_real biological concepts_* and perform well in class or on standardized tests like the AP and SAT subject tests.
+So while the overarching story line and *underworldly* aspects of these study guides are fictitious, they can help you to master *real biological concepts* and perform well in class or on standardized tests like the AP and SAT subject tests.
 
 ## Free Study Guides for the AP and SAT subject tests.
 
