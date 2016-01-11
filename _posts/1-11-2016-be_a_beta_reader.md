@@ -18,7 +18,7 @@ Thanks!
   <input type='text' name='email' /> Email <br />
   
   Message <br />
-  <input type='textarea' name='message' />
+  <textarea name="message"></textarea>
   <input type='submit' value='Submit' /> <br />
   <br />
   *Thank you for your input. You'll never be spammed by this site.*
